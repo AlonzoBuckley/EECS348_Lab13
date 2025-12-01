@@ -1,4 +1,4 @@
-/* Q1: There is a fault in the program program because the loop starss at 1, it 
+/* Q1: There is a fault in the program program because the loop starts at 1 "for (int i = 1; i < attendance_records.size(); ++i", it 
 wont examine [0] which is the first lecture.
 Q2: a test case does not exist becuase of the initialization of i = 1,
 this is impossible because the faulty loop will always cause the fault to executre.
